@@ -20,7 +20,7 @@ Each project has been designed to be completed in one day, with a focus on speci
 | Day | Project Name                          | Description                                                  | Link                                       |
 |-----|---------------------------------------|--------------------------------------------------------------|--------------------------------------------|
 | 01  | Titanic Survival Prediction          | Predict survival on the Titanic using machine learning       | [Link](https://github.com/abdulahad0296/30-days-of-AI-ML-projects/blob/main/titanic_survival_prediction.ipynb) |
-| 02  | Iris Flower Classifier               | Classify Iris flowers based on their features using ML       | [Link](./day02_iris_flower_classifier)     |
+| 02  | Iris Flower Classifier               | Classify Iris flowers based on their features using ML       | [Link](https://github.com/abdulahad0296/30-days-of-AI-ML-projects/blob/main/flower_classifier.ipynb)     |
 | 03  | Exploratory Data Analysis on COVID-19| Perform EDA on COVID dataset to uncover insights             | [Link](./day03_eda_covid_dataset)          |
 | 04  | BMI Calculator Web App               | Build a BMI calculator using Streamlit                       | [Link](./day04_bmi_calculator)             |
 | 05  | House Price Prediction               | Predict house prices using linear regression                 | [Link](./day05_house_price_prediction)     |
